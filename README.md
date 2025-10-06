@@ -11,7 +11,7 @@
 - [voro-js](https://github.com/mdt-re/voro-js): A Javascript / WebAssembly implementation of [voro++](https://github.com/chr1shr/voro).
 
 # <img src="icons/anim_snub_cube.svg" alt="snub_cube" align="left" height="36"> Scripts & [Gists](https://gist.github.com/mdt-re)
-- [voronoi-relaxation-animation](https://gist.github.com/mdt-re/83b23e8b81716c6b001cfd0b00b0c8c6): A python script to generate Voronoi animations.
+- [voronoi-relaxation-animation](https://gist.github.com/mdt-re/83b23e8b81716c6b001cfd0b00b0c8c6): A python script to generate [Voronoi relaxation](https://en.wikipedia.org/wiki/Lloyd%27s_algorithm) SVG animations.
 
 <!--# <img src="icons/anim_dodecahedron.svg" alt="dodecahedron" align="left" height="36"> Quantum Computing-->
 
